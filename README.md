@@ -14,16 +14,13 @@ Task Completed
     I added comments before the different sections of the page to make my codes easier to understand by others.
     To help with this project, besides the materials I learned from the classes, I have also  used many online resources.  Below is a list of a few of the resources  I have used to find answers to some questions I had.
     
-LINKS:
+RESOURCE LINKS:
     https://hacks.mozilla.org/2019/02/refactoring-mdn-macros-with-async-await-and-object-freeze/
 
     https://www.w3schools.com/css/css_specificity.asp
 
     https://stackoverflow.com/
 
-    
-    
-    
  DIRECT LINK TO MY PAGE AND THE DIRECTORY
 https://cloozo.github.io/code-refactor-horiseon/
 https://github.com/cloozo/code-refactor-horiseon
